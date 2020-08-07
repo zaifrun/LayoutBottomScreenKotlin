@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutBottomScreenKotlin</string>
+    <string name="button2">button2</string>
+    <string name="button3">button3</string>
+    <string name="seebelow">seebelow</string>
+    <string name="button1">button1</string>
+</resources>
