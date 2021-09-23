@@ -38,9 +38,9 @@
       are specfied in the xml files, AND only then are they placed.
       -->
     <TextView
+        android:id="@+id/text"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/text"
         android:layout_above="@id/buttons"
         android:background="@android:color/holo_blue_light"
         android:text="@string/seebelow" />
